@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407669310646",
+    "project_id": "employeecard-8b901",
+    "storage_bucket": "employeecard-8b901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407669310646:android:f3faa6c94a39399d329217",
+        "android_client_info": {
+          "package_name": "com.example.employeecard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaMjH03zAuqPhLQCFHhJW4JI6kNAn0_rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
